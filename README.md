@@ -1,2 +1,2 @@
 # M-Wyjebka
-Plugin na wypierdolenie graczowi minecrafya
+Plugin na wypierdolenie graczowi minecrafta
