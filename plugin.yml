@@ -1,0 +1,8 @@
+main: me.michau.wyjebka.Main
+name: M-Wyjebka
+version: 1.0
+author: vMichau_
+description: Plugin na Wyjebke na lodzie kurwa XD
+
+commands:
+  wyjebka:
